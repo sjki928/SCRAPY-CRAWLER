@@ -1,5 +1,4 @@
-# 2024-ENCY-DATA
-Website Crawling and Cleaning w/scrapy (한국민족대백과사전)
+# Website Crawling and Cleaning w/scrapy (한국민족대백과사전)
 
 사이트 내에 onclick을 사용하지 않고 사이트 구조에 있어서 `Article/E0000111`와 같이 예측이 가능하여 속도를 항상하기 위해 scrapy활용
 
