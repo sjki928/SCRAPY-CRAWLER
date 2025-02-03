@@ -27,7 +27,7 @@ pip install scrapy
 ```
 2. Run scrapy
 ```
-cd ENCY-DATA
+cd SCRAPY-CRAWLER
 scrapy crawl encykorea
 ```
 3. Key file: `/SCRAPY-CRAWLER/encykorea_scraper/spiders/encykorea.py`
